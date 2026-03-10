@@ -1,3 +1,7 @@
+![Node.js](https://img.shields.io/badge/Node.js-Backend-green)
+![MongoDB](https://img.shields.io/badge/Database-MongoDB-green)
+![Express](https://img.shields.io/badge/Framework-Express-black)
+![License](https://img.shields.io/badge/License-MIT-blue)
 # Mentorship Backend API
 
 A backend system for a mentorship platform where parents, students, and mentors interact.
