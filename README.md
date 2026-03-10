@@ -20,7 +20,7 @@ A backend system for a mentorship platform where parents, students, and mentors 
 
 ## Installation
 
-git clone https://github.com/username/mentorship-backend.git
+git clone https://github.com/BundeleSourav/Mentorship---Backend.git
 
 cd mentorship-backend
 
